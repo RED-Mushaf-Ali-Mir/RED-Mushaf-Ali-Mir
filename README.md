@@ -14,11 +14,7 @@ I'm a CS student at FAST-NUCES in Karachi. I want to do ML Systems research, the
 
 I learn by building things from scratch: a `ptrace`-based process tracer, an autograd engine, a decoder-only transformer. Most of my ML work runs on a laptop CPU with no GPU, so I care about what happens underneath the framework.
 
-```text
-$ whoami --focus
-ML Systems  ·  operating systems  ·  deep learning from first principles
-running on: Ubuntu, one laptop CPU, no GPU
-```
+<img src="assets/terminal.svg" alt="Terminal: whoami --focus. ML Systems, operating systems, deep learning from first principles. Running on Ubuntu, one laptop CPU, no GPU." width="100%">
 
 ## What I'm building now
 

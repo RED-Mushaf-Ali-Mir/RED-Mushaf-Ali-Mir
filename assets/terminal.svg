@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" width="800" height="170" role="img" aria-labelledby="t d">
+<title id="t">Terminal: whoami --focus</title>
+<desc id="d">ML Systems, operating systems, deep learning from first principles. Running on Ubuntu, one laptop CPU, no GPU.</desc>
+<defs>
+<clipPath id="c0"><rect x="24" y="60" width="0" height="30"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0;0.0250;0.1333;0.95;1" values="0;0;760;760;0"/></rect></clipPath>
+<clipPath id="c1"><rect x="24" y="90" width="0" height="30"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0;0.1667;0.3833;0.95;1" values="0;0;760;760;0"/></rect></clipPath>
+<clipPath id="c2"><rect x="24" y="120" width="0" height="30"><animate attributeName="width" dur="12.0s" repeatCount="indefinite" keyTimes="0;0.4167;0.5833;0.95;1" values="0;0;760;760;0"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="798" height="168" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 13a12 12 0 0 1 12-12h774a12 12 0 0 1 12 12v24H1z" fill="#161b22"/>
+<circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="66" cy="20" r="6" fill="#27c93f"/>
+<text x="400.0" y="25" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Consolas,monospace" font-size="13" fill="#8b949e">mushaf@ubuntu: ~</text>
+<g clip-path="url(#c0)"><text x="28" y="82" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Consolas,monospace" font-size="16" xml:space="preserve"><tspan fill="#bc8cff">$ </tspan><tspan fill="#58a6ff">whoami --focus</tspan></text></g>
+<g clip-path="url(#c1)"><text x="28" y="112" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Consolas,monospace" font-size="16" xml:space="preserve"><tspan fill="#e6edf3">ML Systems  ·  operating systems  ·  deep learning from first principles</tspan></text></g>
+<g clip-path="url(#c2)"><text x="28" y="142" font-family="'JetBrains Mono','Fira Code','DejaVu Sans Mono',Consolas,monospace" font-size="16" xml:space="preserve"><tspan fill="#bc8cff">running on:</tspan><tspan fill="#8b949e"> Ubuntu, one laptop CPU, no GPU</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" keyTimes="0;0.5833;0.95;1" values="0;1;0;0" calcMode="discrete"/><rect x="448" y="129" width="9" height="18" fill="#58a6ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></rect></g>
+</svg>
